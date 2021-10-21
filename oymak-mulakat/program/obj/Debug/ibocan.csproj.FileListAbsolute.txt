@@ -1,0 +1,7 @@
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\bin\Debug\ibocan.exe.config
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\bin\Debug\ibocan.exe
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\bin\Debug\ibocan.pdb
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\obj\Debug\ibocan.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\obj\Debug\ibocan.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\obj\Debug\ibocan.exe
+C:\Users\TOSHIBA\source\repos\ibocan\ibocan\obj\Debug\ibocan.pdb

@@ -1,0 +1,6 @@
+C:\Users\TOSHIBA\source\repos\ibocan\PressEnterControl\bin\Debug\PressEnterControl.exe.config
+C:\Users\TOSHIBA\source\repos\ibocan\PressEnterControl\bin\Debug\PressEnterControl.exe
+C:\Users\TOSHIBA\source\repos\ibocan\PressEnterControl\bin\Debug\PressEnterControl.pdb
+C:\Users\TOSHIBA\source\repos\ibocan\PressEnterControl\obj\Debug\PressEnterControl.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ibocan\PressEnterControl\obj\Debug\PressEnterControl.exe
+C:\Users\TOSHIBA\source\repos\ibocan\PressEnterControl\obj\Debug\PressEnterControl.pdb
